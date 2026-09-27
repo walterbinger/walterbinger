@@ -42,4 +42,13 @@ GitHub is the supporting evidence layer, not the whole portfolio. As individual 
 
 I am especially interested in remote-first work and select Boston-area opportunities where strong execution, adoption, client trust, and systems thinking matter.
 
-[Portfolio](https://walterbinger.com) · [LinkedIn](https://www.linkedin.com/in/walter-binger-032bb423b/) · [Full CV](https://walterbinger.com/Walter-Binger-CV-2026.pdf)
+## Hiring shortcuts
+
+- [Operations Leadership résumé](https://walterbinger.com/Walter-Binger-Operations-Resume.pdf)
+- [Implementation résumé](https://walterbinger.com/Walter-Binger-Implementation-Resume.pdf)
+- [Customer Success / Client Delivery résumé](https://walterbinger.com/Walter-Binger-CustomerSuccess-Resume.pdf)
+- [Full CV](https://walterbinger.com/Walter-Binger-CV-2026.pdf)
+
+**Contact:** [wbinger@gmail.com](mailto:wbinger@gmail.com)
+
+[Portfolio](https://walterbinger.com) · [LinkedIn](https://www.linkedin.com/in/walter-binger-032bb423b/) · [Build / proof repo](https://github.com/walterbinger/walterbinger-site)
