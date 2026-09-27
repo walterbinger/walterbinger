@@ -51,4 +51,4 @@ I am especially interested in remote-first work and select Boston-area opportuni
 
 **Contact:** [wbinger@gmail.com](mailto:wbinger@gmail.com)
 
-[Portfolio](https://walterbinger.com) · [LinkedIn](https://www.linkedin.com/in/walter-binger-032bb423b/) · [Build / proof repo](https://github.com/walterbinger/walterbinger-site)
+[Portfolio](https://walterbinger.com) · [LinkedIn](https://www.linkedin.com/in/walter-binger) · [Build / proof repo](https://github.com/walterbinger/walterbinger-site)
