@@ -26,12 +26,15 @@ I find where information, responsibility, and trust are breaking down, then help
 
 I work across the seams organizations usually separate: frontline reality and executive intent, people and process, operations and technology, strategy and adoption. I use AI, documentation, testing, and automation as leverage—not as a substitute for judgment.
 
-## What GitHub means here
+## Explore the portfolio
 
-This is not a traditional software-engineering portfolio. It is a **proof layer** for how I structure ambiguous problems and turn them into working systems using modern tools, source control, documentation, testing, and AI-assisted building.
+| Start here | What it shows |
+| --- | --- |
+| **[WalterBinger.com](https://walterbinger.com)** | The professional front door: career story, operating proof, role-specific résumés, and contact |
+| **[Living Map](https://walterbinger.com/universe/#/sky)** | The broader connected body of projects, places, writing, tools, and ideas |
+| **[walterbinger-site](https://github.com/walterbinger/walterbinger-site)** | The build/proof layer: architecture, source control, tests, deployment, documentation, and iterative delivery |
 
-**Primary portfolio:** [WalterBinger.com](https://walterbinger.com)  
-**Build / proof repository:** [walterbinger-site](https://github.com/walterbinger/walterbinger-site)
+GitHub is the supporting evidence layer, not the whole portfolio. As individual side projects become strong public artifacts, they can be connected here without turning the profile into a list of half-finished experiments.
 
 ## Roles where I’m most useful
 
