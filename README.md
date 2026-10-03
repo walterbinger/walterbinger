@@ -32,6 +32,7 @@ I work across the seams organizations usually separate: frontline reality and ex
 | --- | --- |
 | **[WalterBinger.com](https://walterbinger.com)** | The professional front door: career story, operating proof, role-specific résumés, and contact |
 | **[Living Map](https://walterbinger.com/universe/#/sky)** | The broader connected body of projects, places, writing, tools, and ideas |
+| **[PREP / PERP Field Tools](https://walterbinger.com/universe/#/world/field-tools)** | Human-centered Alpha tools for observing recurring field signals and examining Pressure, Evidence, Repair, and Proof |
 | **[walterbinger-site](https://github.com/walterbinger/walterbinger-site)** | The build/proof layer: architecture, source control, tests, deployment, documentation, and iterative delivery |
 
 GitHub is the supporting evidence layer, not the whole portfolio. As individual side projects become strong public artifacts, they can be connected here without turning the profile into a list of half-finished experiments.
