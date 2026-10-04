@@ -10,7 +10,7 @@ I find where information, responsibility, and trust are breaking down, then help
 
 **Greater Boston · Remote-first · Fluent Spanish · Conversational French**
 
-## Proof, not slogans
+## Evidence from the work
 
 | Evidence | Result |
 | --- | --- |
